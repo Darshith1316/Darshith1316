@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm currently learning C/C++, Java, Python.
+
 My [Linkedin](https://www.linkedin.com/in/darshith-c-m-61040624b/).
 
   
